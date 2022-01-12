@@ -39,3 +39,10 @@ body{
             0 0 150px #03e9f4;
             
 } 
+
+.loader span{
+  position: absolute;
+  display: block;
+}
+
+
