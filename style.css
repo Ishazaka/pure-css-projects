@@ -20,3 +20,14 @@ body{
   height: 70px;
  overflow: hidden;
 }
+
+.loader h1{
+  color: white;
+ position: absolute;
+ top: 27%;
+ left: 24px;
+  letter-spacing: 2px; 
+ /* top: 41%;
+  left: 27px; */ 
+}
+
