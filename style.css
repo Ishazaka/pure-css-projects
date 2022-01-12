@@ -13,3 +13,10 @@ body{
   min-height: 100vh;
   background: #000;
 }
+
+.loader{
+  position: relative;
+  width: 200px;
+  height: 70px;
+ overflow: hidden;
+}
