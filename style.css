@@ -129,3 +129,15 @@ animation-delay: 2.3s;
 
   margin: 50px;
 }
+a{
+  position: relative;
+  padding: 13px 40px;
+   margin: 50px;
+   color: #21ebff;
+  text-decoration: none;
+  letter-spacing: 2px;
+  font-size: 27px;
+  transition: 0.5s;
+  font-weight: 800;
+  
+}
