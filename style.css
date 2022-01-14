@@ -94,3 +94,13 @@ background: linear-gradient(180deg,transparent,#03e9f4);
 animation: animate2 1.5s linear infinite;
 animation-delay: 0.9s;
 }
+
+@keyframes animate2{
+  0%{
+    top:-100%;
+  }
+  100%{
+    top: 100%;
+  }
+}
+
