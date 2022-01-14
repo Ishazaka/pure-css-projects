@@ -123,3 +123,9 @@ animation-delay: 2.3s;
     top: -100%;
   }
 }
+
+.box{
+  position: relative;
+
+  margin: 50px;
+}
