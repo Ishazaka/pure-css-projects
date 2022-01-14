@@ -74,3 +74,12 @@ animation: animate3 1.5s linear infinite;
 animation-delay: 1.7s;
 
 }
+
+@keyframes animate3{
+  0%{
+    left:100%;
+  }
+  100%{
+    left: -100%;
+  }
+}
