@@ -165,3 +165,18 @@ a:nth-child(2):hover{
                 0 0 150px rgb(211, 34, 255);
                
 }
+
+
+a.style:before{
+content: '';
+position: absolute;
+top:0;
+left: 0;
+width: 10px;
+height: 10px;
+border-top: 2px solid #21ebff; 
+border-left: 2px solid #21ebff; 
+transition: 0.5s;
+
+}
+
