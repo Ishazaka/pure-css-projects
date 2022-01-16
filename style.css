@@ -157,3 +157,11 @@ a:nth-child(2){
  border-radius: 23px;
 
 }
+
+
+a:nth-child(2):hover{
+   box-shadow: 0 0 50px rgb(210, 29, 255),
+               0 0 100px rgb(210, 29, 255),
+                0 0 150px rgb(211, 34, 255);
+               
+}
